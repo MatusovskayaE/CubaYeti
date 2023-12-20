@@ -1,0 +1,52 @@
+﻿<package xmlns="http://v8.1c.ru/8.1/xdto" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" targetNamespace="yeti_cup">
+	<objectType name="autentific">
+		<property name="result" type="xs:boolean"/>
+		<property xmlns:d3p1="yeti_cup" name="user" type="d3p1:user"/>
+		<property name="role" type="xs:int"/>
+	</objectType>
+	<objectType name="champ">
+		<property name="code" type="xs:string"/>
+		<property name="name" type="xs:string"/>
+	</objectType>
+	<objectType name="champlist">
+		<property xmlns:d3p1="yeti_cup" name="champ" type="d3p1:champ" upperBound="10000"/>
+	</objectType>
+	<objectType name="timeline">
+		<property name="code" type="xs:string"/>
+		<property name="name" type="xs:string"/>
+		<property name="description" type="xs:string"/>
+		<property name="picture" type="xs:string"/>
+	</objectType>
+	<objectType name="timelines">
+		<property xmlns:d3p1="yeti_cup" name="timeline" type="d3p1:timeline" upperBound="10000"/>
+	</objectType>
+	<objectType name="user">
+		<property name="code" type="xs:string"/>
+		<property name="name" type="xs:string"/>
+	</objectType>
+	<objectType name="profile">
+		<property name="fitst_name" type="xs:string"/>
+		<property name="second_name" type="xs:string"/>
+		<property name="last_name" type="xs:string"/>
+		<property name="age" type="xs:int"/>
+		<property name="location" type="xs:string"/>
+		<property name="school" type="xs:string"/>
+		<property name="email" type="xs:string"/>
+		<property name="phone" type="xs:string"/>
+		<property name="birthday" type="xs:date"/>
+		<property name="photo" type="xs:string"/>
+		<property name="role" type="xs:int"/>
+	</objectType>
+	<objectType name="profiles">
+		<property xmlns:d3p1="yeti_cup" name="profile" type="d3p1:profile" upperBound="10000"/>
+	</objectType>
+	<objectType name="history">
+		<property xmlns:d3p1="yeti_cup" name="champ" type="d3p1:champ"/>
+		<property name="champdate" type="xs:date"/>
+		<property name="result" type="xs:int"/>
+		<property name="role" type="xs:string"/>
+	</objectType>
+	<objectType name="historys">
+		<property xmlns:d3p1="yeti_cup" name="history" type="d3p1:history" upperBound="10000"/>
+	</objectType>
+</package>
