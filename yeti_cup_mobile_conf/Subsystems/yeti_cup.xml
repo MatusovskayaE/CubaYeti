@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Subsystem uuid="5b961a17-cbfc-49af-9990-37fe53825d65">
+		<Properties>
+			<Name>yeti_cup</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Yeti cup</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeInCommandInterface>true</IncludeInCommandInterface>
+			<UseOneCommand>false</UseOneCommand>
+			<Explanation/>
+			<Picture/>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.СтартовыйЭкран</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.IPАдресВебСервиса</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ИмяПубликации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МодульРаботыСВебСервисом</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ТекушееМероприятиеКод</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ТекушееМероприятиеНаименование</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.WhiteYeti</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщегоНазначения</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.СтрелкаВлево</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.СтрелкаВправо</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Логин</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Пароль</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ГлазОткрытый</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ГлазЗакрытый</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.UserCode</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.UserName</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.UserLogin</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.UserPassword</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ЭтоТелефон</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.События</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Логин32</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.События32</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Достижения</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Достижения32</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.РольУчастника</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.РолиНаЧемпионате</xr:Item>
+			</Content>
+		</Properties>
+		<ChildObjects/>
+	</Subsystem>
+</MetaDataObject>
