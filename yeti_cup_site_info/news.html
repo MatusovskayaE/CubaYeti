@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--metatextblock--><title>Новости</title><meta property="og:url" content="http://project8172129.tilda.ws/page41505456.html"><meta property="og:title" content="Новости"><meta property="og:description" content=""><meta property="og:type" content="website"><meta property="og:image" content="images/photo_1.jpg"><link rel="canonical" href="http://project8172129.tilda.ws/page41505456.html"><!--/metatextblock--><meta name="format-detection" content="telephone=no"><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="https://ws.tildacdn.com"><link rel="dns-prefetch" href="https://static.tildacdn.info"><link rel="shortcut icon" href="tildafavicon.ico" type="image/x-icon"><!-- Assets --><script src="js/tilda-fallback-1.0.min.js" async="" charset="utf-8"></script><link rel="stylesheet" href="css/tilda-grid-3.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';"><link rel="stylesheet" href="css/tilda-blocks-page41505456.min.css" type="text/css" media="all" onerror="this.loaderr='y';"><link rel="stylesheet" href="css/tilda-zoom-2.0.min.css" type="text/css" media="print" onload="this.media='all';" onerror="this.loaderr='y';"><noscript><link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-zoom-2.0.min.css" type="text/css" media="all" /></noscript><link rel="stylesheet" href="css/fonts-tildasans.css" type="text/css" media="all" onerror="this.loaderr='y';"><script nomodule="" src="js/tilda-polyfill-1.0.min.js" charset="utf-8"></script><script type="text/javascript">function t_onReady(func) {
+if (document.readyState != 'loading') {
+func();
+} else {
+document.addEventListener('DOMContentLoaded', func);
+}
+}
+function t_onFuncLoad(funcName, okFunc, time) {
+if (typeof window[funcName] === 'function') {
+okFunc();
+} else {
+setTimeout(function() {
+t_onFuncLoad(funcName, okFunc, time);
+},(time || 100));
+}
+}</script><script src="js/tilda-scripts-3.0.min.js" charset="utf-8" defer="" onerror="this.loaderr='y';"></script><script src="js/tilda-blocks-page41505456.min.js" charset="utf-8" async="" onerror="this.loaderr='y';"></script><script src="js/tilda-lazyload-1.0.min.js" charset="utf-8" async="" onerror="this.loaderr='y';"></script><script src="js/hammer.min.js" charset="utf-8" async="" onerror="this.loaderr='y';"></script><script src="js/tilda-zoom-2.0.min.js" charset="utf-8" async="" onerror="this.loaderr='y';"></script><script src="js/tilda-events-1.0.min.js" charset="utf-8" async="" onerror="this.loaderr='y';"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];</script><script type="text/javascript">(function () {
+if((/bot|google|yandex|baidu|bing|msn|duckduckbot|teoma|slurp|crawler|spider|robot|crawling|facebook/i.test(navigator.userAgent))===false && typeof(sessionStorage)!='undefined' && sessionStorage.getItem('visited')!=='y' && document.visibilityState){
+var style=document.createElement('style');
+style.type='text/css';
+style.innerHTML='@media screen and (min-width: 980px) {.t-records {opacity: 0;}.t-records_animated {-webkit-transition: opacity ease-in-out .2s;-moz-transition: opacity ease-in-out .2s;-o-transition: opacity ease-in-out .2s;transition: opacity ease-in-out .2s;}.t-records.t-records_visible {opacity: 1;}}';
+document.getElementsByTagName('head')[0].appendChild(style);
+function t_setvisRecs(){
+var alr=document.querySelectorAll('.t-records');
+Array.prototype.forEach.call(alr, function(el) {
+el.classList.add("t-records_animated");
+});
+setTimeout(function () {
+Array.prototype.forEach.call(alr, function(el) {
+el.classList.add("t-records_visible");
+});
+sessionStorage.setItem("visited", "y");
+}, 400);
+} 
+document.addEventListener('DOMContentLoaded', t_setvisRecs);
+}
+})();</script><style type="text/css">@media screen and (min-width: 980px) {.t-records {opacity: 0;}.t-records_animated {-webkit-transition: opacity ease-in-out .2s;-moz-transition: opacity ease-in-out .2s;-o-transition: opacity ease-in-out .2s;transition: opacity ease-in-out .2s;}.t-records.t-records_visible {opacity: 1;}}</style></head><body class="t-body" style="margin:0;"><!--allrecords--><div id="allrecords" class="t-records t-records_animated t-records_visible" data-hook="blocks-collection-content-node" data-tilda-project-id="8172129" data-tilda-page-id="41505456" data-tilda-formskey="a205ce71f16365f548be2d7f18172129" data-tilda-cookie="no" data-tilda-lazy="yes"><div id="rec670961297" class="r t-rec t-rec_pt_75 t-rec_pb_75" style="padding-top:75px;padding-bottom:75px; " data-record-type="3"><!-- T107 --><div class="t107"><div class="t-align_center" itemscope="" itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.info/tild6366-6534-4438-a331-323562613930/photo.jpg"> <img class="t-img t-width t107__width t-width_12" src="images/photo.jpg" data-original="https://static.tildacdn.info/tild6366-6534-4438-a331-323562613930/photo.jpg" imgfield="img" data-zoomable="yes" data-img-zoom-url="https://static.tildacdn.info/tild6366-6534-4438-a331-323562613930/photo.jpg" alt=""></div></div></div><div id="rec670963428" class="r t-rec t-rec_pt_60 t-rec_pb_60" style="padding-top:60px;padding-bottom:60px; " data-record-type="36"><!-- T021 --><div class="t021"><div class="t-container"><div class="t-row"><div class="t-col t-col_2 t-prefix_5"><div class="t021__line"></div></div></div><div class="t-row"><div class="t-col t-col_10 t-prefix_1"><div class="t021__text-impact t-text-impact t-text-impact_md" field="text">“Новости - это путь сквозь время, открывая перед нами двери в мир удивительных событий и невероятных возможностей.”</div></div></div><div class="t-row"><div class="t-col t-col_2 t-prefix_5"><div class="t021__line"></div></div></div></div></div></div><div id="rec670963292" class="r t-rec t-rec_pt_60 t-rec_pb_60" style="padding-top:60px;padding-bottom:60px; " data-record-type="106"><!-- T004 --><div class="t004"><div class="t-container "><div class="t-col t-col_8 t-prefix_2"><div field="text" class="t-text t-text_md "><ul><li><a href="/2018.php" target="_blank" rel="noreferrer noopener">"Кубок Йети" 2018</a></li><li><a href="/2019.php" target="_blank" rel="noreferrer noopener">"Кубок Йети" 2019</a></li><li><a href="/2020.php" target="_blank" rel="noreferrer noopener">"Кубой Йети" 2020</a></li><li><a href="/record.php" target="_blank" rel="noreferrer noopener">“Сидоров Иван Петрович установил новый мировой рекорд по количеству шагов в машине Голдберга”</a></li></ul></div></div></div></div></div></div><!--/allrecords--><!-- Tilda copyright. Don't remove this line --><div class="t-tildalabel " id="tildacopy" data-tilda-sign="8172129#41505456"><a href="https://tilda.cc/?upm=8172129" class="t-tildalabel__link"><div class="t-tildalabel__wrapper"><div class="t-tildalabel__txtleft">Made on </div><div class="t-tildalabel__wrapimg"><img src="images/tildacopy.png" class="t-tildalabel__img" fetchpriority="low" alt=""></div><div class="t-tildalabel__txtright">Tilda</div></div></a></div><!-- Stat --><script type="text/javascript">if (! window.mainTracker) { window.mainTracker = 'tilda'; }
+window.tildastatcookie='no'; 
+setTimeout(function(){ (function (d, w, k, o, g) { var n=d.getElementsByTagName(o)[0],s=d.createElement(o),f=function(){n.parentNode.insertBefore(s,n);}; s.type = "text/javascript"; s.async = true; s.key = k; s.id = "tildastatscript"; s.src=g; if (w.opera=="[object Opera]") {d.addEventListener("DOMContentLoaded", f, false);} else { f(); } })(document, window, '0d71f5b765bf102b8aa8d994335c32e3','script','https://static.tildacdn.info/js/tilda-stat-1.0.min.js');
+}, 2000); </script></body></html>
